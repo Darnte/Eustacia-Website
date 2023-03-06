@@ -1,6 +1,6 @@
 # Eustacia
 
-<p>Hello and Welcome Everyone</p>
+<p>Details for Eustacia Bookkeeping App</p>
 
 <p>Eustacia is a self-employed bookkeeping web app with the scope of storing and managing individual and corporate records.</p>
 
