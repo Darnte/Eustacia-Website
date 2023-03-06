@@ -34,7 +34,7 @@
 
 # Deployment
 
-<a href="https://eustacia-app.herokuapp.com/" target="_blank">Eustacia</a>
+<a href="https://eustacia-app.herokuapp.com/" target="_blank">Eustacia Deployment</a>
 
 
 # Future Improvements
