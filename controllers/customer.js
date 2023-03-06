@@ -15,8 +15,8 @@ module.exports = {
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'erol.terbiyeli@gmail.com',
-    pass: 'garzkkuhcornkksn'
+    user: 'obawole.daniel@gmail.com',
+    pass: 'retrievepass'
   }
 });
 
@@ -53,7 +53,7 @@ async function create (req, res, next) {
   res.redirect('/customer')
 
   var mailOptions = {
-    from: 'erol.terbiyeli@gmail.com',
+    from: 'obawole.daniel@gmail.com',
     to: req.body.email,
     subject: "Form Info",
     text: `${req.body.fullname} were saved in ${req.user.name} customer list`
